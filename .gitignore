@@ -1,0 +1,5 @@
+.env/**
+.vscode
+privkey.pem
+pubkey.pem
+__pycache__
